@@ -2,7 +2,7 @@
 
 tg无故被封后，花费n多时间收集了一些vps 的 tg 群和频道
 
-没有排名之分，目前看到ns中比较活跃的就是这几个vps商家，应该都是官方的，应该...我已经尽量识别了，如有错误可 [NodeSeek](https://www.nodeseek.com/post-55637-1#0) 联系更正
+没有排名之分，目前看到ns中比较活跃的就是这几个vps商家，应该都是官方的，应该...我已经尽量识别了
 
 **免责声明：仅提供链接方便学习和交流，注意辨别谨防被骗！**
 
@@ -80,17 +80,7 @@ xuwangmao：虚妄猫、小埋，[群组](https://t.me/xuwangmao)、[频道](htt
 
 ZgoCloud：zgo，[频道](https://t.me/zgocloudchannel)
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-欢迎各位mjj补充,如有错误也欢迎纠正
+欢迎各位mjj补充,如有错误可 [NodeSeek](https://www.nodeseek.com/post-55637-1#0) 联系更正
 持续更新中
-由于帖子更新只有一个月时间，计划迁移至GitHub更新
