@@ -1,8 +1,8 @@
 # 官方的VPS TG 群组和频道
 
-tg无故被封后，花费n多时间收集了一些vps 的 tg 群和频道
+TG 无故被封后，花费 N 多时间收集了一些 VPS 的 TG 群和频道
 
-没有排名之分，目前看到ns中比较活跃的就是这几个vps商家，应该都是官方的，应该...我已经尽量识别了
+没有排名之分，目前看到 NS 中比较活跃的就是这些 VPS 商家，应该都是官方的群组和频道，应该... 我已经尽量识别了
 
 **免责声明：仅提供链接方便学习和交流，注意辨别谨防被骗！**
 
@@ -12,7 +12,7 @@ Hostloc：[群组](https://t.me/myhostloc)、[新帖推送频道](https://t.me/h
 
 <br>
 
-Akile：AK，[群组](https://t.me/akileChat)、[频道](https://t.me/akile_notice)
+AKILE：AK，[群组](https://t.me/akileChat)、[频道](https://t.me/akile_notice)
 
 Akkocloud：Akko，[群组](https://t.me/+nLlZwbyDnsIxZjU1)、[频道](https://t.me/AkkocloudChannel)
 
@@ -32,31 +32,41 @@ DIGITALVIRT：DV，[群组](https://t.me/DigitalVirtLLC)、[频道](https://t.me
 
 DMIT：大妈，[频道](https://t.me/DMIT_INC)
 
-DuoDuoCloud：[群组](https://t.me/duocloud)
+DuoDuoCloud：DuoCloud，[群组](https://t.me/duocloud)
 
-Haruka Network：[群组](https://t.me/harukacloud)、[频道](https://t.me/harukanoc)
+Evoxt：[频道](https://t.me/evoxt)
 
-HyperNAT：[频道](https://t.me/hypernat_channel)
+GlobalVM：[群组](https://t.me/globalvm_chat)、[频道](https://t.me/globalvm_notification)
 
-HYTRON NETWORK：海创，[群组](https://t.me/hytrongroup)、[频道](https://t.me/hytronnoc)
+Haruka Network：Haruka，[群组](https://t.me/harukacloud)、[频道](https://t.me/harukanoc)
 
-KURUNCLOUD：kurun，[频道](https://t.me/KURUNFAN)
+HyperNAT：[群组](https://t.me/+mhRVjGZ57hs5OGM1)、[频道](https://t.me/hypernat_channel)
+
+HYTRON NETWORK：Hytron、海创，[群组](https://t.me/hytrongroup)、[频道](https://t.me/hytronnoc)
+
+KURUNCLOUD：Kurun，[频道](https://t.me/KURUNFAN)
 
 lisahost：丽萨主机，[群组](https://t.me/lisahost_chat)、[频道](https://t.me/lisahost_channel)
 
-MiaoMiaoMoe：喵云，[群组](https://t.me/miaomiaomoe)、[频道](https://t.me/miaomiaomoe_notice)
+MiaoMiao.Moe：喵云，[群组](https://t.me/miaomiaomoe)、[频道](https://t.me/miaomiaomoe_notice)
+
+Mkcloud：[群组](https://t.me/mkcloudchat)、[频道](https://t.me/mkcloudnotice)
 
 NATSeek：[群组](https://t.me/NATSeek_CN_group)、[频道](https://t.me/NATSeek_NewsBoard)
 
-Ogvhost：小鸟云，[群组](https://t.me/Ogvhost)
+Ogvhost：小鸟云，[群组](https://t.me/Ogvhost)、[频道](https://t.me/ogvhost_channel)
 
-OLink Cloud：[群组](https://t.me/olinkcloudchat)、[频道](https://t.me/olinkcloud)
+OLink Cloud：OLink ，[群组](https://t.me/olinkcloudchat)、[频道](https://t.me/olinkcloud)
+
+PQS：彼得巧，[群组](https://t.me/mjjtw)、[频道](https://t.me/pqsnews)
 
 RackNerd：RN，[频道](https://t.me/racknerd_promo)
 
-SaltyFishIO：咸鱼，[频道](https://t.me/SaltyFishIO)
+SaltyFishIO：咸鱼云，[频道](https://t.me/SaltyFishIO)
 
-SharonNetworks：傻龙、傻荣，[群组](https://t.me/SharonNetworks)
+SharonNetworks：Sharon、傻龙、傻荣，[群组](https://t.me/SharonNetworks)
+
+SiliCloud：[群组](https://t.me/SiliCloudChat)、[群组(En)](https://t.me/SiliconCloud)、[频道](https://t.me/silicloud)
 
 Technovm：[群组](https://t.me/TechnoVM111)、[频道](https://t.me/TechnovmCH)
 
@@ -64,7 +74,11 @@ TuAn Cloud：图安云、跑路云，[群组](https://t.me/TuAnCloud)、[频道]
 
 V.PS：小秘书，[频道](https://t.me/v_ps_channel)
 
+VisionCloudCompute：VisionCloud，[群组](https://t.me/visioncloudchat)、[频道](https://t.me/visioncloud_notification)
+
 VMISS：[群组](https://t.me/vmisscom)、[频道](https://t.me/vmiss_com)
+
+VoLLcloud：Voll，[群组](https://t.me/+qd1cAow6oZxhNGU1)、[频道](https://t.me/vollcloudcom)
 
 Wap：总奸，[群组](https://t.me/wap_group)、[频道](https://t.me/wap_ac)
 
@@ -78,9 +92,9 @@ wuyuidc：物语云，[群组](https://t.me/wuyuidc)
 
 xuwangmao：虚妄猫、小埋，[群组](https://t.me/xuwangmao)、[频道](https://t.me/kuaileceshi2)
 
-ZgoCloud：zgo，[频道](https://t.me/zgocloudchannel)
+ZgoCloud：Zgo，[频道](https://t.me/zgocloudchannel)
 
 <br>
 
-欢迎各位mjj补充,如有错误可 [NodeSeek](https://www.nodeseek.com/post-55637-1#0) 联系更正
+欢迎各位 MJJ 补充，如有错误可在 [NodeSeek](https://www.nodeseek.com/post-55637-1) 联系更正
 持续更新中
