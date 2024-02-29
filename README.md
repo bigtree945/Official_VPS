@@ -11,6 +11,7 @@ NodeSeek：[群组](https://t.me/nodeseekg)、[新帖推送频道](https://t.me/
 Hostloc：[群组](https://t.me/myhostloc)、[新帖推送频道](https://t.me/hostloc2tg)
 
 <br>
+aiyunnetwork：艾云，[群组](https://t.me/+4uhUjH0vkA05ZTE1)、[频道](https://t.me/aiyunnetworkchannel)
 
 AKILE：AK，[群组](https://t.me/akileChat)、[频道](https://t.me/akile_notice)
 
@@ -28,21 +29,37 @@ Cloudnium：[群组](https://t.me/Cloudnium_Group)、[频道](https://t.me/Cloud
 
 CloudSilk：白丝，[群组](https://t.me/+VHZLKELTQyzPNgOV)、[频道](https://t.me/bestidc)
 
+CubeCloud：[群组](https://t.me/CubeCloud)、[频道](https://t.me/CubeCloudNews)
+
 DIGITALVIRT：DV，[群组](https://t.me/DigitalVirtLLC)、[频道](https://t.me/DigitalVirtLLC)
 
 DMIT：大妈，[频道](https://t.me/DMIT_INC)
+
+DogYun：狗云，[群组](https://t.me/dogyun)、[频道](https://t.me/dogyun_channel)
+
+Dotdotnetwork：[频道](https://t.me/dotdotidc)
+
+Ducky Cloud：DCI、鸭云，[群组](https://t.me/DuckyGroup)、[频道](https://t.me/DuckyRoBotChannel)
 
 DuoDuoCloud：DuoCloud，[群组](https://t.me/duocloud)
 
 Evoxt：[频道](https://t.me/evoxt)
 
+FightFast：[群组](https://t.me/FightFast_Group)、[频道](https://t.me/FightFast)
+
+GigsGigsCloud：[群组](https://t.me/gigsgigscloudgroup)、[频道](https://t.me/gigsgigscloud)
+
 GlobalVM：[群组](https://t.me/globalvm_chat)、[频道](https://t.me/globalvm_notification)
 
 Haruka Network：Haruka，[群组](https://t.me/harukacloud)、[频道](https://t.me/harukanoc)
 
+hmbcloud：半月湾，[频道](https://t.me/hmbcloud)、[频道](https://t.me/hmbcloud_noc)
+
 HyperNAT：[群组](https://t.me/+mhRVjGZ57hs5OGM1)、[频道](https://t.me/hypernat_channel)
 
 HYTRON NETWORK：Hytron、海创，[群组](https://t.me/hytrongroup)、[频道](https://t.me/hytronnoc)
+
+KuaiCheDao：快车道，[群组](https://t.me/KuaiCheDao_Co)、[频道](https://t.me/KuaiCheDao_Info)
 
 KURUNCLOUD：Kurun，[频道](https://t.me/KURUNFAN)
 
@@ -58,9 +75,17 @@ Ogvhost：小鸟云，[群组](https://t.me/Ogvhost)、[频道](https://t.me/ogv
 
 OLink Cloud：OLink ，[群组](https://t.me/olinkcloudchat)、[频道](https://t.me/olinkcloud)
 
+OneTechCloud：[群组](https://t.me/onetechcloud)、[频道](https://t.me/otcnews)
+
+PacificRack：PR、靓仔，[群组](https://t.me/PacificRackQun)、[频道](https://t.me/PacificRackNews)
+
+PoloCloud：菠萝云，[频道](https://t.me/polocloud_notification)
+
 PQS：彼得巧，[群组](https://t.me/mjjtw)、[频道](https://t.me/pqsnews)
 
 RackNerd：RN，[频道](https://t.me/racknerd_promo)
+
+Riven Cloud：极云，[群组](https://t.me/RivenCloudCN)、[频道](https://t.me/RivenCloudChannel)
 
 SaltyFishIO：咸鱼云，[频道](https://t.me/SaltyFishIO)
 
@@ -68,11 +93,17 @@ SharonNetworks：Sharon、傻龙、傻荣，[群组](https://t.me/SharonNetworks
 
 SiliCloud：[群组](https://t.me/SiliCloudChat)、[群组(En)](https://t.me/SiliconCloud)、[频道](https://t.me/silicloud)
 
+six cloud：六六云，[群组](https://t.me/six_cloud)、[频道](https://t.me/six_clouds)
+
 Technovm：[群组](https://t.me/TechnoVM111)、[频道](https://t.me/TechnovmCH)
 
 TuAn Cloud：图安云、跑路云，[群组](https://t.me/TuAnCloud)、[频道](https://t.me/TuAn_Notify)
 
+Usercloud：[群组](https://t.me/usercloudchat)、[频道](https://t.me/usercloudvps)
+
 V.PS：小秘书，[频道](https://t.me/v_ps_channel)
+
+Viie.io：Viie，[群组](https://t.me/viie_io)、[频道](https://t.me/viie_bulletin)
 
 VisionCloudCompute：VisionCloud，[群组](https://t.me/visioncloudchat)、[频道](https://t.me/visioncloud_notification)
 
@@ -88,9 +119,13 @@ WePC：车库云，[群组](https://t.me/AUwepc)、[频道](https://t.me/WePC_AU
 
 wikihost：微基主机、鸡总，[群组](https://t.me/network50_chat)、[频道](https://t.me/network00000)
 
+wuyouyun：无忧云，[群组](https://t.me/idc_wuyouyun)、[频道](https://t.me/idc_wuyouyun_TZ)
+
 wuyuidc：物语云，[群组](https://t.me/wuyuidc)
 
 xuwangmao：虚妄猫、小埋，[群组](https://t.me/xuwangmao)、[频道](https://t.me/kuaileceshi2)
+
+yanhuoidc：烟火云，[频道](https://t.me/YanHuoIDC)
 
 ZgoCloud：Zgo，[频道](https://t.me/zgocloudchannel)
 
